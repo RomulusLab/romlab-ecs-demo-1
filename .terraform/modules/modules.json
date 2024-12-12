@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"ecs_us_east_2","Source":"./modules/ecs","Dir":"modules/ecs"},{"Key":"network_eu_west_1","Source":"./modules/network","Dir":"modules/network"},{"Key":"network_us_east_2","Source":"./modules/network","Dir":"modules/network"},{"Key":"","Source":"","Dir":"."},{"Key":"ecs_eu_west_1","Source":"./modules/ecs","Dir":"modules/ecs"}]}
